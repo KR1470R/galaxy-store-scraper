@@ -1,8 +1,12 @@
 {
   "name": "galaxy-store-scraper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Samsung Galaxy Store Scrapper for fetching all useful data from app page",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KR1470R/galaxy-store-scraper.git"
+  },
   "scripts": {
     "test": "mocha --timeout 8000"
   },
