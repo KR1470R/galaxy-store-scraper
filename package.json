@@ -1,6 +1,6 @@
 {
   "name": "galaxy-store-scraper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Samsung Galaxy Store Scrapper for fetching all useful data from app page",
   "main": "index.js",
   "repository": {
@@ -12,6 +12,14 @@
   },
   "author": "KR1470R",
   "license": "MIT",
+  "keywords": [
+    "galaxy",
+    "app",
+    "store",
+    "app-store",
+    "samsung",
+    "scraper"
+  ],
   "dependencies": {
     "axios": "^1.8.4",
     "memoizee": "^0.4.17",
