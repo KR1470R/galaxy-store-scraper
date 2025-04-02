@@ -1,6 +1,6 @@
 {
   "name": "galaxy-store-scraper",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Samsung Galaxy Store Scrapper for fetching all useful data from app page",
   "main": "index.js",
   "repository": {
