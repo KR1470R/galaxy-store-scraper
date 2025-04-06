@@ -22,7 +22,7 @@ describe('App method', () => {
   });
 
   it('should return null for invalid app', () => {
-    return store.app({id: invalidApp})
+    return store.app({appId: invalidApp.appId})
       .then((app) => {
         assert.isNull(app);
       });
